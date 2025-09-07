@@ -2,7 +2,7 @@
   "title": "PlayGames.Onl",
   "props": {
     "threedo_bios": "https://playgames.onl/games/3do/bios/panafz1.bin",
-    "threedo_fonts": "https://playgames.onl/games/3do/bios/panafz1j-kanji.bin"
+    "threedo_fonts": "https://playgames.onl/games/3do/bios/panafz1-kanji.bin"
   },
   "categories": [
     {
